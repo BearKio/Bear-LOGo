@@ -1,2 +1,2 @@
-print("hear me roar,please!");
-print ("hello")
+print("hear me roar,please!;")
+print ("hello;")
